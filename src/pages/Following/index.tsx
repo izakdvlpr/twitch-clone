@@ -3,6 +3,7 @@ import React from "react";
 import Header from "../../components/Header";
 import Heading from "../../components/Heading";
 import Title from "../../components/Title";
+import CategoryList from "../../components/CategoryList";
 
 import { Wrapper, Container, Main } from "./styles";
 import { View, FlatList } from "react-native";
@@ -26,7 +27,7 @@ const Following: React.FC = () => {
         render: () => <Title>Followed Categories</Title>,
         isTitle: true,
       },
-      { key: "C1", render: () => <View /> },
+      { key: "C1", render: () => <CategoryList /> },
 
       {
         key: "LIVE_CHANNELS",
