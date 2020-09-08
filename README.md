@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./.github/logo.png" alt="logo" style="width: 400px;"/>
+  <img src="./.github/logo.png" alt="logo" style="width: 250px;"/>
   <h1>Twitch</h1>
   <p>Clone da interface da <a href="https://twitch.tv">twitch.tv</a> para fins de estudo.</p>
   <p>
