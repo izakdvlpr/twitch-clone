@@ -58,7 +58,7 @@ Faça o download do **app para android** [clicando aqui]().
 - [react-navigation/bottom-tabs]()
 - [react-navigation/native]()
 - [expo](https://github.com/expo/expo)
-- [expo-constants]())
+- [expo-constants]()
 - [expo-status-bar]()
 - [react]()
 - [react-dom]()
