@@ -1,6 +1,6 @@
 <div align="center">
   <img src="./.github/logo.png" alt="logo" height="100"/>
-  <h1>Twitch</h1>
+  <h1>Twitch App</h1>
   <p>Clone da interface mobile da <a href="https://twitch.tv">twitch.tv</a> para fins de estudo.</p>
   <p>
     <a href="#keyboard-resultado">Resultado</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</a>
