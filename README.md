@@ -55,6 +55,6 @@ The project itself was created in order to implement my knowledge learned using 
 <div align="center">
   <h1>Open Source</h1>
   <sub>Copyright © 2020-present, zevdvlpr.</sub>
-  <p>Twitch UI Clone <a href="https://github.com/zevdvlpr/discord-clone/tree/master/LICENSE">is MIT licensed 💖</a></p>
+  <p>Twitch Mobile UI Clone <a href="https://github.com/zevdvlpr/discord-clone/tree/master/LICENSE">is MIT licensed 💖</a></p>
   <img src="https://media.discordapp.net/attachments/762751775177703515/776139666348441610/TwitchGlitchPurple.png?width=354&height=413" width="35" />
 </div>
