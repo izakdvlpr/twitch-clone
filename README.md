@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/type-ui%20clone-orange" alt="Repo Type" />
     <img src="https://img.shields.io/badge/language-typescript-blue" alt="Repo Main Language" />
     <img src="https://img.shields.io/badge/platform-mobile-blueviolet" alt="Project Platform" />    
-    <a href="https://github.com/zevdvlpr/twitch-clone/tree/master/LICENSE"><img src="https://img.shields.io/github/license/zevdvlpr/twitch-clone?color=red&label=license" alt="Repo License" /></a>
+    <a href="https://github.com/zevdvlpr/twitch-mobile-clone/tree/master/LICENSE"><img src="https://img.shields.io/github/license/zevdvlpr/twitch-mobile-clone?color=red&label=license" alt="Repo License" /></a>
   </p>   
   
   <p>
@@ -55,6 +55,6 @@ The project itself was created in order to implement my knowledge learned using 
 <div align="center">
   <h1>Open Source</h1>
   <sub>Copyright © 2020-present, zevdvlpr.</sub>
-  <p>Twitch Mobile UI Clone <a href="https://github.com/zevdvlpr/discord-clone/tree/master/LICENSE">is MIT licensed 💖</a></p>
+  <p>Twitch Mobile UI Clone <a href="https://github.com/zevdvlpr/twitch-mobile-clone/tree/master/LICENSE">is MIT licensed 💖</a></p>
   <img src="https://media.discordapp.net/attachments/762751775177703515/776139666348441610/TwitchGlitchPurple.png?width=354&height=413" width="35" />
 </div>
